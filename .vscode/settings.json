@@ -1,0 +1,8 @@
+{
+    "csharpextensions.useFileScopedNamespace": true,
+    "vssolution.trackActiveItem": true,
+    "vssolution.openSolutions.selectedInOmnisharp": true,
+    "vssolution.openProjectOnClick": true,
+    "vssolution.openSolutions.inAltFolders": false,
+    "vssolution.openSolutions.inRootFolder": false
+}
